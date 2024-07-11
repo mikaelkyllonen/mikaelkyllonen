@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mikael
 
-I'm a full-stack developer trainee passionate about the intricate dance between front-end aesthetics and back-end functionality in web development. Currently, I find myself immersed in challenging yet rewarding projects with my talented colleagues at [KajaPro Oy](https://www.kajapro.fi/eng/).
+I'm a full-stack developer trainee passionate about the intricate dance between front-end aesthetics and back-end functionality in web development. Currently I am working on my thesis.
 
 ---
 

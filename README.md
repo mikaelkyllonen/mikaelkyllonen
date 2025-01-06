@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mikael
 
-I'm a full-stack developer trainee passionate about the intricate dance between front-end aesthetics and back-end functionality in web development. Currently I am working on my thesis.
+I'm a full-stack developer trainee passionate about the intricate dance between front-end aesthetics and back-end functionality in web development.
 
 ---
 
